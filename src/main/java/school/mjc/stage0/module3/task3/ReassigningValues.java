@@ -5,6 +5,9 @@ public class ReassigningValues {
         var first=1;
         var second = 10;
         var third = 100;
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
 
         var linkToFirst = first;
         var linkToSecond = second;
@@ -21,9 +24,7 @@ public class ReassigningValues {
         System.out.println(linkToSecond);
         System.out.println(linkToThird);
 
-        System.out.println(first);
-        System.out.println(second);
-        System.out.println(third);
+
 
     }
 }

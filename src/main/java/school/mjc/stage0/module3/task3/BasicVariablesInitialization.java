@@ -5,8 +5,9 @@ public class BasicVariablesInitialization {
         int first = 1;
         int second = 10;
         int third = 100;
-        System.out.println("Value of first: " + first);
-        System.out.println("Value of second: " + second);
-        System.out.println("Value of third: " + third);
+
+        System.out.println( first);
+        System.out.println( second);
+        System.out.println( third);
     }
 }
